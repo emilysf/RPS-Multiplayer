@@ -1,0 +1,32 @@
+body {
+	background-color:#ddecef !important;
+}
+.jumbotron {
+	background-color: #87aaae !important;
+	color:#f6f6f6 !important;
+	text-align: center;
+}
+.form-inline {
+	margin-left: 38.5%;
+}
+.form-control:focus {
+	box-shadow: none !important;
+	border-color:#ccc !important;
+}
+#clickButton {
+	background-color:#87aaae; 
+	border:none;
+}
+.btn-primary:focus {
+	outline: none !important;
+}
+.btn-primary:hover {
+	opacity: 0.9;
+}
+.col-md-3 {
+	border:2px solid #87aaae;
+	width:200px;
+	height:250px;
+	margin-left: 6%;
+	margin-top: 2%;
+}
